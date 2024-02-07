@@ -1,0 +1,11 @@
+la clase de hoy es la parte 1 del proyecto del curso
+
+entonces primero ocupo que vean el video que es un ejemplo de cómo se hace el proceso de cálculo de las direcciones IP
+https://www.youtube.com/watch?v=SHbBso63X38
+
+Luego que sigan este tutorial de packet tracer, es una herramienta de simulación de redes
+
+y la idea es que suban las pruebas de que lo completaron
+
+LINK del tutorial:
+https://www.youtube.com/watch?v=aXz43mgQxGM&list=PL19E8BE542D61D648
